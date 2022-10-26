@@ -1,6 +1,6 @@
 # Insertion-Sort-Projesi
 
-# Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+# Aşağıda verilen dizinin sort türüne göre aşamalarını yazınız.
 
 [22,27,16,2,18,6] 
 [2,27,16,22,18,6] n
